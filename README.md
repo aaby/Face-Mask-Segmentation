@@ -19,9 +19,9 @@ In this problem, we use "Transfer Learning" of an Image Segmentation model to de
   - We have already extracted the images from wider face-dataset and added it in the file images.npy. You can directly use this file for this project. 
   - “images.npy” contains details about the image and it’s masks, there is no separate CSV file for that 
   - There is no separate train and test data given 
-● Create Features(images) and labels(mask) using that data. 
-● Load the pre-trained model and weights. 
-● Create a model using the above model. 
-● Define the Dice Coefficient and Loss function. 
-● Compile and fit the model. 
-● Evaluate the mode
+- Create Features(images) and labels(mask) using that data. 
+- Load the pre-trained model and weights. 
+- Create a model using the above model. 
+- Define the Dice Coefficient and Loss function. 
+- Compile and fit the model. 
+- Evaluate the mode
