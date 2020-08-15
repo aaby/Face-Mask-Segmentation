@@ -8,4 +8,5 @@ We will be using transfer learning on an already trained model to build our segm
 
 # Reference 
 Acknowledgment for the datasets. http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/ 
+
 Mobile Net paper: https://arxiv.org/pdf/1704.04861.pdf 
